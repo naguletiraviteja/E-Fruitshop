@@ -1,0 +1,3 @@
+username = adminuser
+email id = nraviteja007@gmail.com
+password = efruitshop
